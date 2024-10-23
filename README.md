@@ -1,8 +1,10 @@
 # Online Retail Stores Management Database
 Overview
+
 The Online Retail Stores Management Database is designed to manage the critical data of an online retail business. It includes customer information, product categories, product details, order records, order items, and payment transactions. This database allows efficient tracking and analysis of sales, customer behavior, and payment details, making it easier for businesses to generate actionable insights.
 
 Key Features
+
 Customer Management: Stores details of customers including names, addresses, and contact information.
 Product & Category Tracking: Organizes products under different categories, with details like pricing, quantity, and availability.
 Order Tracking: Keeps records of customer orders, including what was purchased and when.
