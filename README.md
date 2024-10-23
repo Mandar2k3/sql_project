@@ -5,7 +5,7 @@ The Online Retail Stores Management Database is designed to manage the critical 
 
 Key Features
 
-Customer Management: Stores details of customers including names, addresses, and contact information.
+ Customer Management: Stores details of customers including names, addresses, and contact information.
 Product & Category Tracking: Organizes products under different categories, with details like pricing, quantity, and availability.
 Order Tracking: Keeps records of customer orders, including what was purchased and when.
 Payment Records: Logs payments made by customers, including the method of payment and the amount.
